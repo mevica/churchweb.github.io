@@ -1,0 +1,34 @@
+.jcc{
+    color:white;
+    background-color: red;
+    font-family: "Bell MT";
+    margin-bottom: 0px;
+}
+.header{
+    padding:0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.slide{
+    color:red;
+}
+.pic{
+    float:left
+}
+.styleh2{
+    color:white;
+    font-family: "Bell MT";
+}
+.styleh3 {
+    font-family: Chiller;
+
+}
+.pic{
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 2px;
+}
+.youth{
+    color: red;
+    text-decoration-line: underline;
+}
